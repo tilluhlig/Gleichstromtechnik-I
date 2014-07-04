@@ -1,2 +1,3 @@
 Gleichstromtechnik-I
 ====================
+![](Bild.jpg)
